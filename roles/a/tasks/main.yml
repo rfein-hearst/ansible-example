@@ -1,0 +1,5 @@
+---
+- name: test
+  local_action: set_fact foo="bar"
+  
+
